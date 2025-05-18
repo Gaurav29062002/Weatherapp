@@ -1,0 +1,9 @@
+{
+    "name": "simple-weather-frontend",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "devDependencies": {}
+  }
+  
